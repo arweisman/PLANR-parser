@@ -1,2 +1,3 @@
 # PLANR-parser
-Parse data from RPLIDAR A3 output into manageable format.
+
+Simple python3 script to visualize data from RPLIDAR A3 LiDAR sensor.
